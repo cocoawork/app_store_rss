@@ -44,7 +44,7 @@
         <mysql-driver-version>8.0.16</mysql-driver-version>
         <hutool-version>5.3.5</hutool-version>
         <dubbo-version>2.7.6</dubbo-version>
-        <shiro-version>1.4.0</shiro-version>
+        <shiro-version>1.7.0</shiro-version>
         <jwt-version>3.5.0</jwt-version>
         <seata.version>1.0.0</seata.version>
     </properties>
